@@ -53,4 +53,7 @@ fpr, tpr, thresholds = roc_curve(y_test, y_proba)
 # Calculate AUC
 roc_auc = auc(fpr, tpr)
 print(f'ROC-AUC Score: {roc_auc}')
+
+
+https://github.com/obaidsayyed/3skill_streamlit
 '''
